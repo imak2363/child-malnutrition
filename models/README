@@ -7,7 +7,7 @@ This directory hosts the serialized scikit-learn models (`.pkl` files) and their
 ## 🔗 Upstream Source & Training Repository
 
 The full analysis pipeline, experimental validation, and model training code are maintained in the primary analysis repository:
-* **Analysis Repository**: [https://github.com/imak2363/child-malnutrition](https://github.com/imak2363/child-malnutrition)
+* **Analysis Repository**: [https://github.com/imak2363/child-malnutrition]
 * **Interactive Analysis Notebook**: `Malnutrition_Full_Analysis_Revised.ipynb` (contains the complete 465-child cohort dataset, cross-validation pipeline, and reproductions of Tables 1–7 and Figures 1–5).
 
 ---
