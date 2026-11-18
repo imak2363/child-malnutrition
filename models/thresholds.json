@@ -1,0 +1,58 @@
+{
+  "logistic_regression": {
+    "threshold": 0.6622,
+    "held_out_accuracy": 0.871,
+    "held_out_bacc": 0.6678,
+    "held_out_auc": 0.7226,
+    "tp_identified": 3,
+    "total_positives": 7
+  },
+  "decision_tree": {
+    "threshold": 0.7829,
+    "held_out_accuracy": 0.8495,
+    "held_out_bacc": 0.5249,
+    "held_out_auc": 0.5257,
+    "tp_identified": 1,
+    "total_positives": 7
+  },
+  "svm_rbf": {
+    "threshold": 0.0988,
+    "held_out_accuracy": 0.7419,
+    "held_out_bacc": 0.598,
+    "held_out_auc": 0.7027,
+    "tp_identified": 3,
+    "total_positives": 7
+  },
+  "mlp": {
+    "threshold": 0.131,
+    "held_out_accuracy": 0.7742,
+    "held_out_bacc": 0.5498,
+    "held_out_auc": 0.6894,
+    "tp_identified": 2,
+    "total_positives": 7
+  },
+  "random_forest": {
+    "threshold": 0.5764,
+    "held_out_accuracy": 0.828,
+    "held_out_bacc": 0.5133,
+    "held_out_auc": 0.6462,
+    "tp_identified": 1,
+    "total_positives": 7
+  },
+  "gradient_boosting": {
+    "threshold": 0.1061,
+    "held_out_accuracy": 0.8495,
+    "held_out_bacc": 0.5249,
+    "held_out_auc": 0.6312,
+    "tp_identified": 1,
+    "total_positives": 7
+  },
+  "stacking_ensemble": {
+    "threshold": 0.5986,
+    "held_out_accuracy": 0.7527,
+    "held_out_bacc": 0.5382,
+    "held_out_auc": 0.7292,
+    "tp_identified": 2,
+    "total_positives": 7
+  }
+}
